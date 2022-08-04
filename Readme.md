@@ -1,4 +1,4 @@
-# <img  align="center" width= 70px height =70px src="https://media3.giphy.com/media/iGdj7WVJsijGCxjX0C/giphy.gif?cid=ecf05e4758u80mbdft2paa9fv7xyxayse2n4koc2adt7r7jn&rid=giphy.gif&ct=s"> Operating System
+# <img  align="center" width= 60px height =60px src="https://media4.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47lwjujsc4236k85djzopizi86yvrc1hhei7afv99y&rid=giphy.gif&ct=s"> Operating System
 
 <div align="center">
 
@@ -104,7 +104,7 @@ sudo dnf install gcc
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Contributors
+## <img align="center"  height =60px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> Contributors
 
 <br>
 <table >
