@@ -76,8 +76,8 @@ sudo dnf install gcc
     <td  align="center">Solution</td>
 </tr>
   <tr>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/Linux%20Basics/Lab_Requirement_1_-_Linux_Basics.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Linux Basics Lab</b></sub></a><br /></td>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/Linux%20Basics/1.png"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>Linux Basics Lab Solution</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/Linux%20Basics/Lab_Requirement_1_-_Linux_Basics.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" height=153pxalt=""/><br /><sub><b>Linux Basics Lab</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/Linux%20Basics/1.png"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" height=153px alt=""/><br /><sub><b>Linux Basics Lab Solution</b></sub></a><br /></td>
   </tr>
   <tr>
     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/Linux%20Basics%20(2)/Lab_Requirement_2_-_Linux_Basics_2.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Linux Basics (2) Lab</b></sub></a><br /></td>
@@ -88,7 +88,7 @@ sudo dnf install gcc
   </tr>
   <tr>
     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/Forking/Lab%204%20-%20Forking.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Forking Lab</b></sub></a><br /></td>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/Forking/passCounter.c"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>Forking Lab Solution</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/Forking/passCounter.c"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" height=200px alt=""/><br /><sub><b>Forking Lab Solution</b></sub></a><br /></td>
   </tr>
   <tr>
     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/Signals/Signals%20Requirement.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Signals Lab</b></sub></a><br /></td>
