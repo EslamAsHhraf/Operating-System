@@ -96,7 +96,7 @@ sudo dnf install gcc
   </tr>
   <tr>
     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/blob/main/IPC/IPC%20Requirement%20-%20Spring%202021.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>IPC Lab</b></sub></a><br /></td>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/tree/main/Network%20Programming/src/com/company"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>IPC Lab Solution</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Operating-System/tree/main/IPC/Solution"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>IPC Lab Solution</b></sub></a><br /></td>
   </tr>
 </table>
 
