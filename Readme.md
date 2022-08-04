@@ -76,19 +76,27 @@ sudo dnf install gcc
     <td  align="center">Solution</td>
 </tr>
   <tr>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Matrix/Matrix.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Matrix Lab</b></sub></a><br /></td>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Matrix/src/com/company/Main.java"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>Matrix lab solution</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Matrix/Matrix.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Linux Basics Lab</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Matrix/src/com/company/Main.java"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>Linux Basics Lab Solution</b></sub></a><br /></td>
   </tr>
   <tr>
-    <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Multithread/Multithread.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Multithread Lab</b></sub></a><br /></td>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Multithread/src/com/company/Main.java"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>Multithread Lab solution</b></sub></a><br /></td>
+    <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Multithread/Multithread.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Linux Basics (2) Lab</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Multithread/src/com/company/Main.java"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>Linux Basics (2) Lab Solution</b></sub></a><br /></td>
   </tr>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/MPI/MPI.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>MPI Lab</b></sub></a><br /></td>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/MPI/src/com/company/matrix.java"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>MPI lab solution</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/MPI/MPI.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>C Basics Lab</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/MPI/src/com/company/matrix.java"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>C Basics lab Solution</b></sub></a><br /></td>
   </tr>
   <tr>
-    <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Network%20Programming/Network%20Programming.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Network Programming Lab</b></sub></a><br /></td>
-     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/tree/main/Network%20Programming/src/com/company"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>Network Programming Lab solution</b></sub></a><br /></td>
+    <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Network%20Programming/Network%20Programming.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Forking Lab</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/tree/main/Network%20Programming/src/com/company"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>Forking Lab Solution</b></sub></a><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Network%20Programming/Network%20Programming.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Signals Lab</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/tree/main/Network%20Programming/src/com/company"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>Signals Lab Solution</b></sub></a><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Network%20Programming/Network%20Programming.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>IPC Lab</b></sub></a><br /></td>
+     <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/tree/main/Network%20Programming/src/com/company"><img src="https://www.successfactor.co.nz/wp-content/uploads/2020/10/28-October-Solution-Problem.jpg" width="250px;" alt=""/><br /><sub><b>IPC Lab Solution</b></sub></a><br /></td>
   </tr>
 </table>
 
